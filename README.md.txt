@@ -220,6 +220,11 @@ Clone this repository to your computer.
 
 Open Command Prompt or Terminal inside the project folder.
 
+## Application Screenshot
+
+![Customer Churn Prediction App](churn_app_screenshot.png)
+
+
 ### 3. Install Required Libraries
 
 Run:
